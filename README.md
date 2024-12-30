@@ -2,7 +2,7 @@
 
 
 ![output](./output.png)
-![1](./1.png)
+![bonus](./bonus.png)
 
 # Project Overview
 
